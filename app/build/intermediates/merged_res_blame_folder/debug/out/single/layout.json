@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.notesstoringapplication.app-mergeDebugResources-41:/layout/note_rv_item.xml",
+        "source": "com.example.notesstoringapplication.app-main-44:/layout/note_rv_item.xml"
+    },
+    {
+        "merged": "com.example.notesstoringapplication.app-mergeDebugResources-41:/layout/activity_main.xml",
+        "source": "com.example.notesstoringapplication.app-main-44:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.notesstoringapplication.app-mergeDebugResources-41:/layout/activity_add_edit_note.xml",
+        "source": "com.example.notesstoringapplication.app-main-44:/layout/activity_add_edit_note.xml"
+    }
+]
